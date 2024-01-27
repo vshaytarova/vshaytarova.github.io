@@ -1,5 +1,4 @@
-# Veronika Shaytarova's Portfolio
-# Data & Business Intelligence Analyst
+# Veronika Shaytarova - Data Analyst
 
 # Table of Content
 Vizualization Projects:
