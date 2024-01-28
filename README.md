@@ -1,5 +1,10 @@
 # Veronika Shaytarova - Data Analyst
 
 ## Table of Content
-### Vizualization Projects:
-* TABLEAU
+Vizualization Projects:
+Tableau
+
+
+
+
+:snake:
