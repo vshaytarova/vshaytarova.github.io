@@ -1,8 +1,7 @@
 # Veronika Shaytarova - Data Analyst
-
+about & instructions
 ## Table of Content
-Vizualization Projects:
-Tableau
+SQL, Python, R, Tableau, Power BI, Excel
 
 
 
