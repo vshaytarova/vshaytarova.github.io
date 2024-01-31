@@ -3,9 +3,11 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data & Business Intellegence Analyst 
   <br><br>
-  Project Manager 
+  - Over 5 years of experience in data analytics for sales and market analysis in the higher education industry
+  - Proficiency in data processing, extraction, manipulation, formatting, and crafting informative reports using SQL, MS Excel, Power BI or Tableau for well-informed decision making and operational efficiency
+  - Extensive Project Management skills and coordinating cross-departmental project work ensured seamless collaboration between different departments to achieve organizational goals
   <br><br>
-  <a href="https://www.linkedin.com/in/vshaytarova/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/vshaytarova/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
